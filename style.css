@@ -56,12 +56,13 @@ h1{
 	color: #000;
 	margin: 20px 0px 20px;
 	font-size: 75px;
-	padding-left: 7.5%;
+	white-space: nowrap;
 }
 h3{
 	color: #000;
 	font-size: 25px;
 	margin-bottom: 50px;
+	padding-left: 5%;
 }
 h4{
 	color: #000;
